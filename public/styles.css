@@ -1,0 +1,50 @@
+#head-box {
+    padding-left: 25px;
+}
+
+#form-box {
+    padding-left: 25px;
+}
+
+#form-box form {
+    padding-bottom: 5px;
+}
+
+#form-box button {
+    margin-top: 5px;
+}
+
+#note-box {
+    padding-left: 25px;
+    color: darkred;
+}
+
+#canvas-box {
+    width: 97.2%;
+}
+
+#canvas-box canvas {
+    padding: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: lightgrey;
+    background: -webkit-linear-gradient(left top, darkgray, white);
+    background: -o-linear-gradient(bottom right, darkgray, white);
+    background: -moz-linear-gradient(bottom right, darkgray, white);
+    background: linear-gradient(to bottom right, darkgray, white);
+}
+
+body {
+    background-color: deepskyblue;
+    background: -webkit-linear-gradient(left top, deepskyblue, lawngreen);
+    background: -o-linear-gradient(bottom right, deepskyblue, lawngreen);
+    background: -moz-linear-gradient(bottom right, deepskyblue, lawngreen);
+    background: linear-gradient(to bottom right, deepskyblue, lawngreen);
+    color: dimgray;
+    font-family: Helvetica, serif;
+    font-weight: 900;
+}
+
+html {
+    min-height: 100%;
+}
